@@ -25,4 +25,4 @@ In every push to the `main` GitHub action will deploy to the `test` slot. After 
 we can check the application manually with the slot URL and if everything is good then 
 swap slot from Azure Portal.
 
-For security reasons publish profile has been removed from the GitHub secret.
+Note: For security reasons publish profile has been removed from the GitHub secret.
